@@ -1,2 +1,2 @@
 # telaooby
-Tell you friends
+Tell your friends about ooby.
